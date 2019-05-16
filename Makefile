@@ -1,2 +1,2 @@
-fedit: fedit.c
-	$(CC) fedit.c -o fedit -Wall -Wextra -pedantic -std=c99
+editoreo: editoreo.c
+	$(CC) editoreo.c -o fedit -Wall -Wextra -pedantic -std=c99
